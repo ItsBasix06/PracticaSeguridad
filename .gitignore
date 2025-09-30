@@ -1,1 +1,36 @@
+## Contraseñas y datos sensibles 
+
+*.env
+*.secret
+*.key
+*.pem
+credentials.json
+
+## Configuraciones locales 
+
+.vscode/
+.idea/
+*.local
+*.config
+*.ini
+
+## Ficheros temporales 
+
+*.log
+*.tmp
+*.bak
+*.swp
+
+## Binarios / compilados 
+
+*.exe
+*.dll
+*.o
+*.out
+*.class
+*.pyc
+*.pyo
+dist/
+build/
+target/
 
